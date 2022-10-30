@@ -1,1 +1,1 @@
-# biticoin alert
+# bitcoin alert
